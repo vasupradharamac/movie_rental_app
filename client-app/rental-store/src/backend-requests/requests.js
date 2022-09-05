@@ -1,7 +1,7 @@
 import axios from "axios"
 
-let baseUrl="http://localhost:5000/moviesApi"
-let assetUrl="http://localhost:5000/"
+let baseUrl="https://vasu-movie-app.herokuapp.com/"
+let assetUrl="https://vasu-movie-app.herokuapp.com/"
 
 function makeGetReq(url,callback){
     axios.get(baseUrl+url).then(d=>{
