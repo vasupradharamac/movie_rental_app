@@ -40,8 +40,18 @@ Movie Rental Services is an application that enables users to find and rent movi
 # Application sample images
 
 ![home page](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/homePage.png)
+
+
 ![rentals page](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/rentalsPage.png)
+
+
 ![profile page](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/profilePage.png)
+
+
 ![search bar](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/searchBar.png)
+
+
 ![rental success](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/rentalsPage.png)
+
+
 ![already rented](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/alreadyRented.png)
