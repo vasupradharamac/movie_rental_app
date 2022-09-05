@@ -21,3 +21,37 @@ Movie Rental Services is an application that enables users to find and rent movi
 * **Backend:** Node JS
 * **DataBase:** Disk DB (an orm clone of monogDb)
 
+# Run the application
+
+* Clone the repo into a new folder,
+
+* Navigate to server app and do "npm i" to install dependencies.
+
+* Then run "npm start to run the server".
+
+* Open another terminal on VS Code.
+
+* Navigate to the client app and run "npm i" to install dependencies.
+
+* Run "npm start" to run the application.
+
+* Go to localhost:5000 to test and use the application.
+
+# Application sample images
+
+![home page](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/homePage.png)
+
+
+![rentals page](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/rentalsPage.png)
+
+
+![profile page](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/profilePage.png)
+
+
+![search bar](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/searchBar.png)
+
+
+![rental success](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/rentalsPage.png)
+
+
+![already rented](https://github.com/vasupradharamac/movie_rental_app/blob/main/imagesforGit/alreadyRented.png)
