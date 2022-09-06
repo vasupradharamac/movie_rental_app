@@ -1,6 +1,6 @@
 import axios from "axios"
 
-let baseUrl="https://vasu-movie-app.herokuapp.com/moviesApi"
+let baseUrl="https://vasu-movie-app.herokuapp.com/"
 let assetUrl="https://vasu-movie-app.herokuapp.com/"
 
 function makeGetReq(url,callback){
