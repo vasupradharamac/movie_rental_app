@@ -2,6 +2,8 @@
 
 Movie Rental Services is an application that enables users to find and rent movies.
 
+link to live website: <a href="https://vasu-movie-application.herokuapp.com/" target="_blank">Movie Rental Application</a>
+
 
 # Features of the app
 
